@@ -1,0 +1,97 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+main {
+  width: 960px;
+  text-align: center;
+  margin: 50px auto;
+}
+
+.list-grop li {
+  list-style: none;
+  padding: 20px;
+  color: gold;
+}
+
+.list-grop li:nth-child(odd) {
+  background-color: gray;
+  border-radius: 10px;
+}
+
+.Exit {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 50px auto;
+  margin-bottom: 50px;
+}
+
+.exit1 {
+  background-color: orange;
+  height: 200px;
+  width: 30%;
+  margin-bottom: 40px;
+  margin-right: 5%;
+}
+
+.exit2 {
+  background-color: orange;
+  height: 200px;
+  width: 30%;
+  margin-bottom: 40px;
+  margin-right: 5%;
+}
+
+.exit3 {
+  background-color: orange;
+  height: 200px;
+  width: 30%;
+  margin-bottom: 40px;
+}
+
+.exit4 {
+  background-color: orange;
+  height: 200px;
+  width: 30%;
+  margin-bottom: 40px;
+  margin-right: 5%;
+}
+
+.exit5 {
+  background-color: orange;
+  height: 200px;
+  width: 30%;
+  margin-bottom: 40px;
+  margin-right: 5%;
+}
+
+.exit6 {
+  background-color: orange;
+  height: 200px;
+  width: 30%;
+  margin-bottom: 40px;
+}
+
+.exit7 {
+  background-color: orange;
+  height: 200px;
+  width: 30%;
+  margin-bottom: 40px;
+  margin-right: 5%;
+}
+
+.exit8 {
+  background-color: orange;
+  height: 200px;
+  width: 30%;
+  margin-bottom: 40px;
+  margin-right: 5%;
+}
+.exit9 {
+  background-color: orange;
+  height: 200px;
+  width: 30%;
+  margin-bottom: 40px;
+}
